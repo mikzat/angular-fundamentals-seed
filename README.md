@@ -89,5 +89,4 @@ The project uses `webpack` to build and compile all of our assets. This will do 
 - Provide the polyfills needed to run our app in all modern browsers
 - Mock a JSON backend using [json-server](https://github.com/typicode/json-server)
 
-
 (TEST)
